@@ -1,0 +1,11 @@
+#graf,#pareto,#line,#area,#pie,#barmekko,#bar{
+    height: 600px;
+  }
+
+  #ac-chart-container{
+    height: inherit
+  }
+
+  .anychart-credits-text, .anychart-credits-logo{
+    display: none;
+  }
